@@ -1,6 +1,7 @@
 # Bitcoin-Improvement-Proposal-3-BIP-Bitcoin-s-Computing-Power-for-Ransomware-Decryption
 
 Title: Utilization of a Fraction of Bitcoin’s Computing Power for Ransomware Decryption Assistance
+
 Author: BBCD Satoshi
 
 Status: Draft
